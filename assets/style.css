@@ -153,6 +153,7 @@ body {
     height: 16rem;
     object-fit: cover;
     transition: transform var(--transition-fast) ease, filter var(--transition-fast) ease;
+    border-radius: var(--border-radius-medium);
 }
 
 .image-grid img:hover {
