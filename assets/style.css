@@ -202,7 +202,7 @@ body {
 .close {
     position: absolute;
     top: 2.5rem;
-    right: 36rem;
+    right: 20rem;
     color: var(--primary-color);
     font-size: 3rem;
     font-weight: bold;
