@@ -202,7 +202,7 @@ body {
     position: absolute;
     top: 2.5rem;
     right: 36rem;
-    color: var(--secondary-color);
+    color: var(--primary-color);
     font-size: 3rem;
     font-weight: bold;
     cursor: pointer;
@@ -210,7 +210,7 @@ body {
 
 .close:hover,
 .close:focus {
-    color: var(--secondary-color);
+    color: var(--primary-color);
 }
 
 /* Responsividade */
