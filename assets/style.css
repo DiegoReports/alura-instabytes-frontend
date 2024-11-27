@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Charm:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
 
 :root {
     --font-size-base: 16px;
@@ -43,12 +44,12 @@ body {
 }
 
 .navbar .logo {
-    font-family: "Charm", cursive;
+    font-family: "Audiowide", sans-serif;
     font-size: 2rem;
-    font-weight: bold;
+    font-weight: 200;
     color: var(--secondary-color);
     font-style: italic;
-    font-weight: 400;
+    /* font-weight: 400; */
     margin-left: 1rem;
 }
 
@@ -126,6 +127,11 @@ body {
     color: var(--primary-color);
     margin-bottom: 0.5rem;
     font-weight: 600;
+}
+
+.profile-info h1 a {
+    text-decoration: none;
+    color: var(--primary-color);
 }
 
 .profile-info p {
