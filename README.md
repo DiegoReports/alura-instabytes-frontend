@@ -1,5 +1,19 @@
 # Alura - Imersão back-end
 
+<p align="center">
+<img loading="lazy" src="./assets/images/Capa.png"/>
+<img loading="lazy" src="https://img.shields.io/badge/STATUS-Concluído-green"/>
+</p>
+
+## Tecnologias
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width = 40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width = 40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width = 40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width = 40 />
+<img src="https://logospng.org/download/google-gemini/google-gemini-1024.png" width = 40 />
+</p>
+
 Este é o repositório do front-end do projeto.
 
 **IMPORTANTE:** É necessário ter o [Node.js](https://nodejs.org/) instalado em seu computador antes de executar os comandos de instalação e execução do projeto. Versão recomendada: v20.x.x.
