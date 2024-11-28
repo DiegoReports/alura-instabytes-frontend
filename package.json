@@ -25,7 +25,7 @@
   "scripts": {
     "dev": "npx parcel --no-cache --port 8000 index.html",
     "test": "",
-    "build": "parcel build index.html --public-url ./ --no-cache"
+    "build": "parcel build index.html"
   },
   "devDependencies": {
     "parcel": "^2.12.0"
