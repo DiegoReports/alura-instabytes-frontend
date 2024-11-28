@@ -1,8 +1,8 @@
 # Alura - Imersão back-end
 
 <p align="center">
+<img loading="lazy" src="https://img.shields.io/badge/STATUS-Concluído-green" width=20/>
 <img loading="lazy" src="./assets/images/Capa.png"/>
-<img loading="lazy" src="https://img.shields.io/badge/STATUS-Concluído-green"/>
 </p>
 
 ## Tecnologias
